@@ -1,0 +1,16 @@
+
+Single line comment. 
+error: multiple declaration for 'c'.
+error: multiple declaration for 'd'.
+16
+71
+Value of If condition : 11 
+Value of else condition : 16 
+Condition false.
+Value of IF : 16 
+0 1 2 3 4 5 6 7 8 9 
+10 9 8 7 6 
+1 2 3 4 5 6 7 
+
+Result in default Value is :  0 
+Program End.
